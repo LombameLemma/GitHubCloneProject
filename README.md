@@ -1,1 +1,1 @@
-"GitHubLocalCloneProject"
+git clone
